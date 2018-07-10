@@ -1,0 +1,31 @@
+{
+   "teams":[
+      {
+         "teamName":"Team A",
+         "rank":3,
+         "teamMambers":[
+            "Vishnu",
+            "Rakesh",
+            "Pujan"
+         ]
+      },
+      {
+         "teamName":"Team B",
+         "rank":2,
+         "teamMambers":[
+            "Katherine",
+            "David",
+            "Kiley"
+         ]
+      },
+      {
+         "teamName":"Team C",
+         "rank":1,
+         "teamMambers":[
+            "Deepthi",
+            "Patty",
+            "Tom"
+         ]
+      }
+   ]
+}
